@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alaashabanelsayed
 - 👀 I’m FrontEnd developer.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to discussing new projects, creative ideas or opportunities to be part of your visions
 - 📫  alaashabanelsayed416@gmail.com
 
 <!---
